@@ -1,10 +1,10 @@
-id: 80
+id: 81
 user: eq19
-span: span-61
+span: span-62
 title: eQuantum
-baseurl: /maps
-repository: KernelPatterns/maps
-action: KernelPatterns/KernelPatterns.github.io/actions/runs/15003473029
+baseurl: /feed
+repository: KernelPatterns/feed
+action: KernelPatterns/maps/actions/runs/15005023645
 description: eQuantum Project
 
 #debug:
@@ -48,6 +48,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [6, 1]
+  spin: [6, 2]
   pinned: [maps, feed, lexer, parser, syntax, grammar, ccxt, superalgos, indodax, advance, core, freqtrade]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
